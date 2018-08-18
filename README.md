@@ -1,6 +1,6 @@
 # LD42_BulletJam
 
-The first time.
+https://ldjam.com/events/ludum-dare/42/bulletjam
 
 First time using C# to program a game.
 
